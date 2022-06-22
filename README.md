@@ -1,5 +1,8 @@
 ### Hi there :turtle: 👋
 
+I listen to waterflame while building things. Anyway i think I should be learning cpp(long endless journey :man_shrugging:), get good hand with software dev & some DevOps.
+
+
 <!--
 **ZakariaBOUZIT/ZakariaBOUZIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
